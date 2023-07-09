@@ -1,0 +1,15 @@
+{
+  "name": "card-sky",
+  "version": "1.0.0",
+  "description": "React Card Component",
+  "main": "CardLibrary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shobhit Yadav",
+  "license": "ISC",
+  "peerDependencies": {
+    "vite-plugin-sass-dts": "^1.3.6"
+  }
+}
